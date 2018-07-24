@@ -1,0 +1,5 @@
+face_recognition
+opencv-python
+tzlocal
+boto3
+numpy
